@@ -2,7 +2,7 @@
 
 ### Getting started
 
-<img src="https://raw.githubusercontent.com/kirill-grouchnikov/substance/master/www/images/walkthrough/all.png" width="279" height="324" border=0 align="right">
+<img src="www/images/walkthrough/all.png" width="279" height="324" border=0 align="right">
 
 If you are new to Swing, start with the general [Swing tutorial](http://java.sun.com/docs/books/tutorial/uiswing/). If you are new to look-and-feels, read the [getting started](www/docs/getting-started.md) first.
 
@@ -29,7 +29,7 @@ If you've skipped [getting started](www/docs/getting-started.md) page, to add Su
 
 ### Configure and customize
 
-<img src="https://raw.githubusercontent.com/kirill-grouchnikov/substance/master/www/images/screenshots/skins/nebulabrickwall1.png" width="340" height="254" border=0 align="left">
+<img src="www/images/screenshots/skins/nebulabrickwall1.png" width="340" height="254" border=0 align="left">
 It is easy to customize and extend Substance to fit your visual needs.
 
 Substance comes with an extensive set of [APIs](www/docs/api.md) to add custom functionality to your components. The overall visuals are controlled by [skins](www/docs/skins/overview.md), with each skin defined by [color scheme bundles](www/docs/skins/colorschemebundles.md) and [painters](www/docs/painters/overview.md). 
@@ -38,7 +38,7 @@ The [skinning primer](www/docs/painters/custom-skinning.md) has a few tips on ho
 
 ### Plugins
 
-<img src="https://raw.githubusercontent.com/kirill-grouchnikov/substance/master/www/images/learn/ribbon.png" width="340" height="210" border=0 align="right">
+<img src="www/images/learn/ribbon.png" width="340" height="210" border=0 align="right">
 
 While the core Swing components cover the base UI functionality that most applications require, modern UIs need modern UI components. To address this need, Substance comes with a built-in support to define and load plugins that provide consistent appearance and interaction patterns for third-party components.
 
